@@ -1,5 +1,5 @@
 export interface Student {
-    curse: string;
+    course: string;
     name: string;
     ra: number;
     age: number;
